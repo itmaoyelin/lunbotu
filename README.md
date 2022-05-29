@@ -1,5 +1,5 @@
-# 欢迎使用轮播图
+# Welcome to the rotation chart
 
-这是一个轮播图效果
+This is a round-casting map effect
 
-## 导入项目中使用即可
+## Use it in the import project only
